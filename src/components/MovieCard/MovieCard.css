@@ -1,0 +1,41 @@
+.MovieCard {
+    width: 25rem;
+    color: rgb(48, 47, 47);
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.movie-poster {
+    width: 12rem;
+}
+
+img {
+    width: 10rem;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.card-content {
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.card-btn {
+    height: 30px;
+    width: 100px;
+}
+
+.release-date {
+    font-size: 12px;
+}
+
+.movie-rating {
+    color: rgb(245, 197, 24);
+}
+
+.read-more {
+    cursor: pointer;
+    text-decoration: none;
+}

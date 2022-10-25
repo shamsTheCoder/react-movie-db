@@ -1,0 +1,16 @@
+.MovieHeader {
+    width: 100%;
+    height: 15rem;
+    background-image: url('header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-content {
+    width: 100%;
+    height: 15rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 2rem;
+    padding-left: 8rem;
+}
